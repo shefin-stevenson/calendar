@@ -1,0 +1,159 @@
+
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+Enter new event name (no more than 16 characters):
+Enter new event start time (mm/dd hh:mm):
+Enter new event end (mm/dd hh:mm):
+Enter new event description (no more than 256 characters):
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+Enter new event name (no more than 16 characters):
+Enter new event start time (mm/dd hh:mm):
+Enter new event end (mm/dd hh:mm):
+Enter new event description (no more than 256 characters):Warning: event2 and event1 have the same start time.
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+Enter new event name (no more than 16 characters):
+Enter new event start time (mm/dd hh:mm):
+Enter new event end (mm/dd hh:mm):
+Enter new event description (no more than 256 characters):Warning: event3 and event2 have the same start time.
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+event1#
+05/16 3:30
+05/17 3:45
+this event starts at 3:30#
+
+
+event2#
+05/16 3:30
+05/17 4:30
+this one needs to be sorted by it's name, how annoying#
+
+
+event3#
+05/16 3:30
+05/17 4:30
+oh no! this event also starts at 3:30, we can still sort it by the end time though#
+
+
+
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+Enter the event name:event2#
+05/16 3:30
+05/17 4:30
+this one needs to be sorted by it's name, how annoying#
+
+
+event3#
+05/16 3:30
+05/17 4:30
+oh no! this event also starts at 3:30, we can still sort it by the end time though#
+
+
+
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword

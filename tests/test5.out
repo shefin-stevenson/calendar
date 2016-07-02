@@ -1,0 +1,121 @@
+
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+Enter new event name (no more than 16 characters):
+Enter new event start time (mm/dd hh:mm):
+Enter new event end (mm/dd hh:mm):
+Enter new event description (no more than 256 characters):
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+Enter new event name (no more than 16 characters):
+Enter new event start time (mm/dd hh:mm):
+Enter new event end (mm/dd hh:mm):
+Enter new event description (no more than 256 characters):
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+Enter new event name (no more than 16 characters):
+Enter new event start time (mm/dd hh:mm):
+Enter new event end (mm/dd hh:mm):
+Enter new event description (no more than 256 characters):
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
+Enter a start time (mm/dd hh:mm):Enter an end time (mm/dd hh:mm):event3#
+03/20 15:40
+03/20 16:40
+yet another event#
+
+
+event1#
+12/20 03:40
+12/20 03:41
+this event is in december#
+
+
+
+
+Enter a number from the list below to select an action, or press 9 to quit
+
+Edit Commands 
+
+1. Insert new event
+2. Delete event
+3. Edit event
+
+ Print Commands
+
+4. Print all
+5. Print time block
+6. Print conflicts
+
+ Search Commands
+
+7. Search by name
+8. Search by keyword
