@@ -2,7 +2,7 @@
  * shefin stevenson on 7/2/2016
  */
 #include <stdio.h>
-int main()
+int main(int argc, char argv[])
 {
   char name[10];
   
